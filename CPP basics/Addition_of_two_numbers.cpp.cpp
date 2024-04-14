@@ -6,7 +6,7 @@ int main()
 	float a,sqrt;
 	cout<<"enter a number";
 	cin>>a;
-	cout<<"Square root of number is  "<<sqrt(a);
+	  cout<<"Square root of number is  "<<sqrt(a);
 	return 0;
 	
 }
