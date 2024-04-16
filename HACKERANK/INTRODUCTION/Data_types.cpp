@@ -14,6 +14,6 @@ int main()
     cout<<ld<<endl;
     cout<<c<<endl;
     cout<<fixed<<setprecision(3)<<f<<endl;
-    cout<<fixed<<setprecision(9)<<lf<<endl;;
+    cout<<fixed<<setprecision(9)<<lf<<endl;
 return 0;
 }
