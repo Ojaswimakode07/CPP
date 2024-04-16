@@ -5,7 +5,6 @@ struct student
  //private declaration
    int age,standard;
    char first_name[50],last_name[50];
-    
 };
 int main()
 {
