@@ -8,5 +8,4 @@ int main()
 	cin>>a;
 	  cout<<"Square root of number is  "<<sqrt(a);
 	return 0;
-	
 }
