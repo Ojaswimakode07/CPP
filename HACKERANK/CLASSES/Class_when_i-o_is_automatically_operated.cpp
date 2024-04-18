@@ -13,5 +13,6 @@ int main()
     //when i/o is automatically operated
     cin>>st.age>>st.standard>>st.first_name>>st.last_name;
     cout<<st.age<<" "<<st.standard<<" "<<st.first_name<<" "<<st.last_name;
+ 
     return 0;
 }
