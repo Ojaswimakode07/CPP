@@ -13,9 +13,9 @@ int main()
       //print * equal to row number
       for(j = 1; j <= i; j++)
       {
-         cout << "4 ";
+       cout << "4 ";
       }
-      cout << "\n";
+     cout << "\n";
    }
 
    return 0;
