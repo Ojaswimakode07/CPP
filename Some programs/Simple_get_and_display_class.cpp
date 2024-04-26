@@ -22,7 +22,7 @@ class students
   	
   		{
 			 cout<<"Name= "<<name<<"\n"<<"Roll number= "<<roll_number<<endl;
-			}	
+	 		}	
   	
   
  int main()
