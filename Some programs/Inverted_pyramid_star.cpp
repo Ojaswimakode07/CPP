@@ -15,7 +15,7 @@ int main()
       //print * equal to row number
       for(j = 1; j <= i; j++)
       {
-         cout << "* ";
+         cout << "*";
       }
       cout << "\n";
    }
