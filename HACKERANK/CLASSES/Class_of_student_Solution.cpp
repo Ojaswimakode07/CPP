@@ -2,7 +2,8 @@
 #include <sstream>
 using namespace std;
 
-class Student {
+class Student 
+{
 private:
     int age,standard;
     string first_name,last_name;
